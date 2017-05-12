@@ -9,5 +9,7 @@ PDFReader
 ## 改动后的界面如下
 
 1.原来的样式
+![Alt text](https://github.com/Wymann/OWPDFReader/blob/master/screenshots/01.png)
 
 2.改动后的样式（通过Collectionview展示）
+![Alt text](https://github.com/Wymann/OWPDFReader/blob/master/screenshots/02.png)
