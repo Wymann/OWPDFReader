@@ -13,3 +13,6 @@ PDFReader
 
 ### 改动后的样式（通过Collectionview展示）
 ![Alt text](https://github.com/Wymann/OWPDFReader/blob/master/screenshots/02.png)
+
+
+如果喜欢，请不要吝啬你的星星✨😊
